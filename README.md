@@ -1,5 +1,7 @@
 # Netflix-Clone
 A Netflix Clone made using ReactJS,login and signup designed using firebase.
+ReactRedux is used to filter the data according to genre user is selecting.
+
 
 Visit this site at:- https://niketflix.netlify.app/
 
